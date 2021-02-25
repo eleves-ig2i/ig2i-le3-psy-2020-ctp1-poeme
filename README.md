@@ -11,6 +11,6 @@ gcc karaOK_vX.c -o karaOKVX -pthread -D _REFRAIN_
 Contient le sujet de DS et le sujet de CTP
 
 Axes d'améliorations :
-corrigé les fautes d'orthographes,
+corriger les fautes d'orthographes,
 Gerer la fin des processus fils avec des SIGCHLD,
-surment d'autres choses
+divers choses
